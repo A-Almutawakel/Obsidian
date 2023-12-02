@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Victimology/School Violence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cc14eb5d49facbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Victimology/Restorative Justice.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Victimology/Restorative Justice.md",
+                "file": "Victimology/School Violence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Victimology/Restorative Justice.md",
+                "file": "Victimology/School Violence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Victimology/Restorative Justice.md"
+                "file": "Victimology/School Violence.md"
               }
             }
           }
@@ -151,8 +163,11 @@
   "active": "48e5375c254fd677",
   "lastOpenFiles": [
     "Victimology/Restorative Justice.md",
-    "Philosophy/Realism.md",
+    "Victimology/School Violence.md",
     "Victimology/Victim Impact Statements.md",
+    "Python/Lectures.md",
+    "Philosophy/Realism.md",
+    "Python",
     "South Africa/History.md",
     "South Africa/Apartheid.md",
     "South Africa/Neslon Mandela.md",
@@ -179,7 +194,6 @@
     "Victimology/Victim Impact Statements 1.md",
     "Untitled.canvas",
     "Victimology",
-    "Thoughts.md",
-    "~$ctim Impact Statements.md"
+    "Thoughts.md"
   ]
 }
